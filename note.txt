@@ -1,4 +1,4 @@
-
+Locat Git workflow
 
 1. Initialization - git Init (done only once)
 
@@ -7,3 +7,6 @@
     (b) git add '.' (to stage all files)
 
 3. Commit: git commit -m "First Commit"
+
+4. Push:
+    git push -u origin main
