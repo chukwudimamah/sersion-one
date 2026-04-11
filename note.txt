@@ -1,0 +1,9 @@
+
+
+1. Initialization - git Init (done only once)
+
+2. Stage:
+    (a) git add <filename> (To stage one file)
+    (b) git add '.' (to stage all files)
+
+3. Commit: git commit -m "First Commit"
